@@ -1,28 +1,28 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GDU2TC3QOWXWWJG3FTKJC3PUBCBKKHHJBZRNW5TZYNRIUDLAGNBUPJSS"
+"GARBXV5POWFSGZWHTUSXLY3QHKWCDSEXFGBRMPIJQRZJMT2CKG2ZI2RI"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
-ORG_NAME="starbucksxlm"
-ORG_URL="https://www.starbucksxlm.org"
-ORG_DESCRIPTION="Starbucks XLM is representing an American multinational chain of coffeehouses and roastery reserves headquartered in Seattle, Washington. As the world's largest coffeehouse chain, Starbucks XLM is seen to be the main representation of the United States' second wave of coffee culture."
-ORG_TWITTER="@starbucksxlm"
-ORG_LOGO="https://i.ibb.co/L5GmLrW/STARBUCKSXLM.png"
-ORG_OFFICIAL_EMAIL="starbucksxlm@gmail.com"
+ORG_NAME="stellardrip"
+ORG_URL="https://www.stellardrip.org"
+ORG_DESCRIPTION="Stellar Drip, known as Dripcoin has one central goal: to provide clean water to as many individuals as possible, worldwide."
+ORG_TWITTER="@stellardrip"
+ORG_LOGO="https://i.ibb.co/GpGcbgv/stellardrip.png"
+ORG_OFFICIAL_EMAIL="stellardrip@gmail.com"
 
 
 [[CURRENCIES]]
-code="StarbucksXLM"
-issuer="GDU2TC3QOWXWWJG3FTKJC3PUBCBKKHHJBZRNW5TZYNRIUDLAGNBUPJSS"
+code="StellarDrip"
+issuer="GARBXV5POWFSGZWHTUSXLY3QHKWCDSEXFGBRMPIJQRZJMT2CKG2ZI2RI"
 anchor_asset="false"
-name="Starbucks XLM"
-desc="Starbucks XLM is representing an American multinational chain of coffeehouses and roastery reserves headquartered in Seattle, Washington. As the world's largest coffeehouse chain, Starbucks XLM is seen to be the main representation of the United States' second wave of coffee culture."
+name="Stellar Drip"
+desc="Stellar Drip, known as Dripcoin has one central goal: to provide clean water to as many individuals as possible, worldwide."
 conditions=""
-image="https://i.ibb.co/L5GmLrW/STARBUCKSXLM.png"
+image="https://i.ibb.co/GpGcbgv/stellardrip.png"
 fixed_number=10000000
 max_number=10000000
 is_unlimited=false
-#StarbucksXLM was issued using the open and inclusive Stellar blockchain network.
+#StellarDrip was issued using the open and inclusive Stellar blockchain network.
