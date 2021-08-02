@@ -1,28 +1,28 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GA3DXP4V7OGNEEBUCHHLOE3VP3CC26TZLSVUKS6OCTKPCKMSLESOX5OX"
+"GDU2TC3QOWXWWJG3FTKJC3PUBCBKKHHJBZRNW5TZYNRIUDLAGNBUPJSS"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
-ORG_NAME="landroverxlm"
-ORG_URL="https://www.landroverxlm.org"
-ORG_DESCRIPTION="Land Rover is a British brand of predominantly four-wheel drive, off-road capable vehicles, owned by multinational car manufacturer Jaguar Land Rover."
-ORG_TWITTER="@landroverxlm"
-ORG_LOGO="https://i.ibb.co/jfL5tWZ/land-1.jpg"
-ORG_OFFICIAL_EMAIL="landroverxlm@gmail.com"
+ORG_NAME="starbucksxlm"
+ORG_URL="https://www.starbucksxlm.org"
+ORG_DESCRIPTION="Starbucks XLM is representing an American multinational chain of coffeehouses and roastery reserves headquartered in Seattle, Washington. As the world's largest coffeehouse chain, Starbucks XLM is seen to be the main representation of the United States' second wave of coffee culture."
+ORG_TWITTER="@starbucksxlm"
+ORG_LOGO="https://i.ibb.co/L5GmLrW/STARBUCKSXLM.png"
+ORG_OFFICIAL_EMAIL="starbucksxlm@gmail.com"
 
 
 [[CURRENCIES]]
-code="LandRoverXLM"
-issuer="GA3DXP4V7OGNEEBUCHHLOE3VP3CC26TZLSVUKS6OCTKPCKMSLESOX5OX"
+code="StarbucksXLM"
+issuer="GDU2TC3QOWXWWJG3FTKJC3PUBCBKKHHJBZRNW5TZYNRIUDLAGNBUPJSS"
 anchor_asset="false"
-name="Land Rover XLM"
-desc="Land Rover is a British brand of predominantly four-wheel drive, off-road capable vehicles, owned by multinational car manufacturer Jaguar Land Rover."
-conditions="Land Rover was granted a Royal Warrant by King George VI in 1951, and 50 years later, in 2001, it received a Queen's Award for Enterprise for outstanding contribution to international trade."
-image="https://i.ibb.co/jfL5tWZ/land-1.jpg"
+name="Starbucks XLM"
+desc="Starbucks XLM is representing an American multinational chain of coffeehouses and roastery reserves headquartered in Seattle, Washington. As the world's largest coffeehouse chain, Starbucks XLM is seen to be the main representation of the United States' second wave of coffee culture."
+conditions=""
+image="https://i.ibb.co/L5GmLrW/STARBUCKSXLM.png"
 fixed_number=10000000
 max_number=10000000
 is_unlimited=false
-#LandRoverXLM was issued using the open and inclusive Stellar blockchain network.
+#StarbucksXLM was issued using the open and inclusive Stellar blockchain network.
